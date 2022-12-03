@@ -1,0 +1,55 @@
+#menu
+{
+	text-align: center;
+	color: #0022FB;
+	font-family: "Comic Sans MS", cursive, sans-serif; 
+	font-size: 50px;
+}
+
+#body
+{
+	font-family: "Times New Roman", 30px; 
+	font-size: 25px;
+}
+
+#head
+{
+	border: 5px solid  black;
+	background-color: #898989;
+	margin: 20px;
+	width: 30%;
+	float: left;
+}
+
+#content
+{
+	margin: 20px;
+	padding-top: 30px;
+}
+
+#one
+{
+	float: right;
+	margin: 0;
+	background-color: #FFBC4D;
+	border: 3px solid gray;
+	width: 100px;
+}
+
+#two
+{
+	float: right;
+	margin: 0;
+	background-color: #4EF9E1;
+	border: 3px solid gray;
+	width: 100px;
+}
+
+#three
+{
+	float: right;
+	margin: 0;
+	background-color: #B883FB;
+	border: 3px solid gray;
+	width: 100px;
+}
